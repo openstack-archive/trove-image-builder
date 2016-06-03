@@ -1,0 +1,14 @@
+.tox
+*.pyc
+AUTHORS
+ChangeLog
+trove_image_builder.egg-info
+.eggs/
+
+# Sphinx
+doc/build/*
+
+# Editors
+*!
+.*.swp
+.bak
