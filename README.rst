@@ -1,19 +1,12 @@
-===============================
+===================
 trove-image-builder
-===============================
+===================
 
-A tool to create guest images for the OpenStack Trove project (https://launchpad.net/trove).
+This project is no longer maintained. The contents of this repository
+are still available in the Git source code management system. To see
+the contents of this repository before it reached its end of life,
+please check out the previous commit with "git checkout HEAD^1".
 
-Please fill here a long description which must be at least 3 lines wrapped on
-80 cols, so that distribution package maintainers can use it in their packages.
-Note that this is a hard requirement.
-
-* Free software: Apache license
-* Documentation: http://docs.openstack.org/developer/trove-image-builder
-* Source: http://git.openstack.org/cgit/openstack/trove-image-builder
-* Bugs: http://bugs.launchpad.net/trove-image-builder
-
-Features
---------
-
-* TODO
+For any further questions please email
+openstack-dev@lists.openstack.org or join the #openstack-dev on
+Freenode.
